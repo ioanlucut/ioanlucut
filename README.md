@@ -8,7 +8,7 @@ I started in control theory and automation engineering, then found my place in s
 
 At work I still build things. With my fellow leads and our Head of Technology, I also help decide where our Austrian engineering goes: architecture, engineering standards and what we deliver first.
 
-Right now I’m focused on AI-native engineering: agents that get the context they need, workflows we can reuse, and fast verification. People stay in control.
+Right now I’m focused on AI-native engineering: agents that get the context they need, workflows we can reuse, and fast verification.
 
 ## Things I’ve built and helped shape
 
